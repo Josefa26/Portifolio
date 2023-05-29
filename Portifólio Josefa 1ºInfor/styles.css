@@ -1,0 +1,102 @@
+.container {
+  display: flex;
+  }
+  
+  .sobre1{
+  background-color:  DodgerBlue;
+  padding-top: 100px; /* em cima */
+  padding-right: 40px; /* direita */
+  padding-bottom: 250px; /* em baixo */
+  padding-left: 15px; /* esquerda */
+  font-size: 25px;
+  }
+  
+  .sobre2{
+      background-color:CornflowerBlue;
+      width: 1000px;
+      font-size: 30px;
+      text-align: justify;
+      align-items: center;
+      display: flex;
+  }
+
+  .objetivos {
+    background-color:CornflowerBlue;
+    width: 1000px;
+  }
+  
+.objetivos h1 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 40px;
+  font-size: 50px;
+  color:SkyBlue;
+}
+
+.objetivos ul {
+  font-size: 25px;
+}
+
+.conhecimentos {
+  display: flex;
+  padding-left: 40px;
+  font-size: 40px;
+  align-items: center;
+  background-color:CornflowerBlue;
+  width: 1000px;
+}
+
+  .sobre2 p{
+      padding: 40px;
+  }
+  
+  .nobull{
+      list-style-type: none;
+  }
+  
+  img{
+      border-radius: 50%;
+      width: 200px;
+  }
+  
+  .sobre{
+      line-height: 0px;
+  }
+  
+  .sobre2 .nome {
+      font-size: 0px;
+      margin: 0px;
+      padding: 0px;
+      padding-left: 40px;
+      font-size: 70px;
+  }
+
+  .lista .sobrenome{
+      color:CornflowerBlue;
+  }
+  
+  .endereco {
+      font-size: 20px;
+      margin: 0px;
+      padding: 0px;
+  }
+  
+  .sobre .gmail{
+      color: CornflowerBlue;
+  }
+  
+  .redes_sociais img{
+      width: 50px;
+  }
+  
+  .redes_sociais{
+      padding-left: 40px;
+  }
+  
+  .lista2 .pro{
+      color:CornflowerBlue;
+  }
+  
+  .lista2 .pes{
+      color:CornflowerBlue;
+  }
